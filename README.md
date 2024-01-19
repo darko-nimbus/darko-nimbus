@@ -9,7 +9,7 @@ Welcome to my GitHub profile. [Let's connect on LinkedIn](https://www.linkedin.c
 - [Data Analyst Professional](https://www.datacamp.com/certificate/DA0022198866681) issued by DataCamp in July 2023
 - [Growth Marketing](https://certificates.growthtribe.io/en/verify/58415215742700) issued by Growth Tribe in January 2023
 
-## Read my blog posts:
+## Blog posts:
 ### About Analytics Engineering
 
 - **Data Engineer vs Analytics Engineer: What is the Difference?** [Read](https://nimbusintelligence.com/2023/09/data-engineer-vs-analytics-engineer-what-is-the-difference/)
