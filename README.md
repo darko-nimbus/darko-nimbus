@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**darko-nimbus/darko-nimbus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nimbus Academy provided him the perfect setting for merging  marketing skills with top-notch data tools. His strengths in both people skills and business acumen enable him to navigate through complex issues and drive impactful results. He excels in finding answers to current business dilemmas and is eager to bring his blend of interpersonal abilities, marketing strategies, and analytics expertise to every team he becomes a part of.
+
 
 Here are some ideas to get you started:
 
