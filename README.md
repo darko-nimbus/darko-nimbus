@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile. [Let's connect on LinkedIn](https://www.linkedin.com/in/darko-monziocompagnoni/)
+Welcome to my GitHub profile.
 
 ## Certifications:
 
