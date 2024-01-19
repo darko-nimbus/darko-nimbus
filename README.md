@@ -3,11 +3,27 @@
 Welcome to my GitHub profile. [Let's connect on LinkedIn](https://www.linkedin.com/in/darko-monziocompagnoni/)
 
 ## Read my blog posts:
-- [Visualizing API Data on Streamlit: Football Fan Tokens & Team Performance](https://nimbusintelligence.com/2023/10/visualizing-api-data-on-streamlit/)
-- [Prevent your data lake from becoming a data swamp](https://nimbusintelligence.com/2023/10/prevent-your-data-lake-from-becoming-a-data-swamp/)
-- [Understanding Data Normalization](https://nimbusintelligence.com/2023/09/understanding-data-normalization/)
-- [Data Engineer vs Analytics Engineer: What’s the difference?](https://nimbusintelligence.com/2023/09/data-engineer-vs-analytics-engineer-what-is-the-difference/)
-- [Can a Marketer become an Analytics Engineer?](https://nimbusintelligence.com/2023/09/can-a-marketer-become-an-analytics-engineer/)
+### About Analytics Engineering
+
+- **Data Engineer vs Analytics Engineer: What is the Difference?** [Read](https://nimbusintelligence.com/2023/09/data-engineer-vs-analytics-engineer-what-is-the-difference/)
+- **Can a Marketer Become an Analytics Engineer?** [Read](https://nimbusintelligence.com/2023/09/can-a-marketer-become-an-analytics-engineer/)
+
+### Application of Analytics Engineering
+
+- **Transforming Digital Marketing: The Power of WordPress and Snowflake Integration** [Read](https://nimbusintelligence.com/2023/12/transforming-digital-marketing-the-power-of-wordpress-and-snowflake-integration/)
+- **Revolutionizing Email Marketing: Mailchimp Meets Snowflake** [Read](https://nimbusintelligence.com/2023/12/revolutionizing-email-marketing-mailchimp-meets-snowflake/)
+- **Elevating Data-Driven Marketing: HubSpot Meets Snowflake** [Read](https://nimbusintelligence.com/2023/11/elevating-data-driven-marketing-hubspot-meets-snowflake/)
+- **Data-Driven Healthcare Transformation: How dbt Helps** [Read](https://nimbusintelligence.com/2023/11/data-driven-healthcare-transformation-how-dbt-helps/)
+
+### More Technical Blogs
+
+- **Visualizing API Data on Streamlit** [Read](https://nimbusintelligence.com/2023/10/visualizing-api-data-on-streamlit/)
+- **Prevent Your Data Lake from Becoming a Data Swamp** [Read](https://nimbusintelligence.com/2023/10/prevent-your-data-lake-from-becoming-a-data-swamp/)
+- **Understanding Data Normalization** [Read](https://nimbusintelligence.com/2023/09/understanding-data-normalization/)
+- **Understanding Modularity** [Read](https://nimbusintelligence.com/2023/11/understanding-modularity/)
+- **The Role of Analytics Engineers in Modern Data Teams** [Read](https://nimbusintelligence.com/2023/11/the-role-of-analytics-engineers-in-modern-data-teams/)
+- **What Are Snowflake Sessions?** [Read](https://nimbusintelligence.com/2023/10/what-are-snowflake-sessions/)
+
 
 ## My certifications:
 - [Alteryx Designer Core Certification](https://www.credly.com/badges/9328d8d9-cbaf-4a52-bdeb-1549e622d57a/public_url) issued by Alteryx in December 2023
