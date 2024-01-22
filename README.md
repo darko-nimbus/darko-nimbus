@@ -23,9 +23,6 @@ Click on the badge to see the certification.
 
 ## ✍️ Blog posts:
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ### Analytics Engineering
 - **Data Engineer vs Analytics Engineer: What is the Difference?** [Read](https://nimbusintelligence.com/2023/09/data-engineer-vs-analytics-engineer-what-is-the-difference/)
 - **Can a Marketer Become an Analytics Engineer?** [Read](https://nimbusintelligence.com/2023/09/can-a-marketer-become-an-analytics-engineer/)
@@ -45,3 +42,8 @@ Click on the badge to see the certification.
 - **Understanding Modularity** [Read](https://nimbusintelligence.com/2023/11/understanding-modularity/)
 - **Understanding Snowflake Sessions** [Read](https://nimbusintelligence.com/2023/10/what-are-snowflake-sessions/)
 - **Using a Snowflake Reader Account for Easy Data Sharing** [Read](https://nimbusintelligence.com/2023/10/using-a-snowflake-reader-account-for-easy-data-sharing/)
+
+# I'm currently learning: 
+<img src="https://duolingo-stats-card.vercel.app/api?id=431102140&theme=dark" alt="Duolingo Stats"/>
+
+
