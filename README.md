@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-## ⚙️Tech stack
+## 🛠️ Languages and Tools
 
 - **Version Control and Collaboration** ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat)
 - **Integrated Development Environments (IDEs)** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
@@ -21,7 +21,11 @@ Click on the badge to see the certification.
 
 [<img alt="snowflake badge" width="150" src="https://miro.medium.com/v2/resize:fit:302/0*rSN2PYxEHCVi-_Es.png"/>](https://pdf.credential.net/9hopyggw_1698911053725.pdf) [<img alt="dbt BADGE" width="150" src="https://templates.images.credential.net/167892285199942014616515742341.png"/>](https://credentials.getdbt.com/84d416da-8341-4463-bf09-cbf8f8792aec#gs.3tise5) [<img alt="Alteryx BADGE" width="150" src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png"/>](https://www.credly.com/badges/9328d8d9-cbaf-4a52-bdeb-1549e622d57a/public_url) [<img alt="Growth Tribe BADGE" width="150" src="https://api.sertifier.com/userdata/08d9f799-b40a-8cb0-1f3e-46a314b27fb2/2d6bbff5-1036-4218-b8e2-1530075e5e06.png"/>](https://certificates.growthtribe.io/en/verify/58415215742700)
 
-## 📖 Blog posts:
+## ✍️ Blog posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Analytics Engineering
 - **Data Engineer vs Analytics Engineer: What is the Difference?** [Read](https://nimbusintelligence.com/2023/09/data-engineer-vs-analytics-engineer-what-is-the-difference/)
 - **Can a Marketer Become an Analytics Engineer?** [Read](https://nimbusintelligence.com/2023/09/can-a-marketer-become-an-analytics-engineer/)
