@@ -13,22 +13,21 @@ Welcome to my GitHub profile.
 
 ## Blog posts:
 ### Analytics Engineering
-
 - **Data Engineer vs Analytics Engineer: What is the Difference?** [Read](https://nimbusintelligence.com/2023/09/data-engineer-vs-analytics-engineer-what-is-the-difference/)
 - **Can a Marketer Become an Analytics Engineer?** [Read](https://nimbusintelligence.com/2023/09/can-a-marketer-become-an-analytics-engineer/)
+- **The Role of Analytics Engineers in Modern Data Teams** [Read](https://nimbusintelligence.com/2023/11/the-role-of-analytics-engineers-in-modern-data-teams/)
+
 
 ### Applications of Analytics Engineering
-
 - **Transforming Digital Marketing: The Power of WordPress and Snowflake Integration** [Read](https://nimbusintelligence.com/2023/12/transforming-digital-marketing-the-power-of-wordpress-and-snowflake-integration/)
 - **Revolutionizing Email Marketing: Mailchimp Meets Snowflake** [Read](https://nimbusintelligence.com/2023/12/revolutionizing-email-marketing-mailchimp-meets-snowflake/)
 - **Elevating Data-Driven Marketing: HubSpot Meets Snowflake** [Read](https://nimbusintelligence.com/2023/11/elevating-data-driven-marketing-hubspot-meets-snowflake/)
 - **Data-Driven Healthcare Transformation: How dbt Helps** [Read](https://nimbusintelligence.com/2023/11/data-driven-healthcare-transformation-how-dbt-helps/)
 - **Visualizing API Data on Streamlit** [Read](https://nimbusintelligence.com/2023/10/visualizing-api-data-on-streamlit/)
+- **Prevent Your Data Lake from Becoming a Data Swamp** [Read](https://nimbusintelligence.com/2023/10/prevent-your-data-lake-from-becoming-a-data-swamp/)
 
 ### Technical Blogs
-
-- **Prevent Your Data Lake from Becoming a Data Swamp** [Read](https://nimbusintelligence.com/2023/10/prevent-your-data-lake-from-becoming-a-data-swamp/)
 - **Understanding Data Normalization** [Read](https://nimbusintelligence.com/2023/09/understanding-data-normalization/)
 - **Understanding Modularity** [Read](https://nimbusintelligence.com/2023/11/understanding-modularity/)
-- **The Role of Analytics Engineers in Modern Data Teams** [Read](https://nimbusintelligence.com/2023/11/the-role-of-analytics-engineers-in-modern-data-teams/)
-- **What Are Snowflake Sessions?** [Read](https://nimbusintelligence.com/2023/10/what-are-snowflake-sessions/)
+- **Understanding Snowflake Sessions** [Read](https://nimbusintelligence.com/2023/10/what-are-snowflake-sessions/)
+- **Using a Snowflake Reader Account for Easy Data Sharing** [Read](https://nimbusintelligence.com/2023/10/using-a-snowflake-reader-account-for-easy-data-sharing/)
