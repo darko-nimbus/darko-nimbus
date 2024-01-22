@@ -50,4 +50,3 @@ Click on the badge to see the certification.
 ## I'm currently learning: 
 <img src="https://duolingo-stats-card.vercel.app/api?id=431102140&theme=dark" alt="Duolingo Stats"/>
 
-
