@@ -43,7 +43,7 @@ Click on the badge to see the certification.
 - Understanding Snowflake Sessions [Read](https://nimbusintelligence.com/2023/10/what-are-snowflake-sessions/)
 - Using a Snowflake Reader Account for Easy Data Sharing [Read](https://nimbusintelligence.com/2023/10/using-a-snowflake-reader-account-for-easy-data-sharing/)
 
-## GitHub streaks
+## GitHub streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darko-nimbus)](https://git.io/streak-stats)
 
 
