@@ -27,7 +27,7 @@ Welcome to my GitHub profile.
 **Data Visualization**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white&style=flat)
-![Looker](https://img.shields.io/badge/Looker-00B0E8?logo=Looker&logoColor=white&style=flat)
+![Looker](https://img.shields.io/badge/Looker-4285F4?logo=Looker&logoColor=white&style=flat)
 
 **Familiar with these operating systems:**
 
