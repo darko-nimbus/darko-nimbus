@@ -40,7 +40,7 @@ Click on the badge to see the certification.
 ### Technical Blogs
 - Understanding Data Normalization [Read](https://nimbusintelligence.com/2023/09/understanding-data-normalization/)
 - Understanding Modularity [Read](https://nimbusintelligence.com/2023/11/understanding-modularity/)
-- **Understanding Snowflake Sessions [Read](https://nimbusintelligence.com/2023/10/what-are-snowflake-sessions/)
+- Understanding Snowflake Sessions [Read](https://nimbusintelligence.com/2023/10/what-are-snowflake-sessions/)
 - Using a Snowflake Reader Account for Easy Data Sharing [Read](https://nimbusintelligence.com/2023/10/using-a-snowflake-reader-account-for-easy-data-sharing/)
 
 ## GitHub streaks
