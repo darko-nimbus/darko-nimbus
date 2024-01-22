@@ -12,21 +12,21 @@ Welcome to my GitHub profile.
 - [Growth Marketing](https://certificates.growthtribe.io/en/verify/58415215742700) issued by Growth Tribe in January 2023
 
 ## Blog posts:
-### About Analytics Engineering
+### Analytics Engineering
 
 - **Data Engineer vs Analytics Engineer: What is the Difference?** [Read](https://nimbusintelligence.com/2023/09/data-engineer-vs-analytics-engineer-what-is-the-difference/)
 - **Can a Marketer Become an Analytics Engineer?** [Read](https://nimbusintelligence.com/2023/09/can-a-marketer-become-an-analytics-engineer/)
 
-### Application of Analytics Engineering
+### Applications of Analytics Engineering
 
 - **Transforming Digital Marketing: The Power of WordPress and Snowflake Integration** [Read](https://nimbusintelligence.com/2023/12/transforming-digital-marketing-the-power-of-wordpress-and-snowflake-integration/)
 - **Revolutionizing Email Marketing: Mailchimp Meets Snowflake** [Read](https://nimbusintelligence.com/2023/12/revolutionizing-email-marketing-mailchimp-meets-snowflake/)
 - **Elevating Data-Driven Marketing: HubSpot Meets Snowflake** [Read](https://nimbusintelligence.com/2023/11/elevating-data-driven-marketing-hubspot-meets-snowflake/)
 - **Data-Driven Healthcare Transformation: How dbt Helps** [Read](https://nimbusintelligence.com/2023/11/data-driven-healthcare-transformation-how-dbt-helps/)
-
-### More Technical Blogs
-
 - **Visualizing API Data on Streamlit** [Read](https://nimbusintelligence.com/2023/10/visualizing-api-data-on-streamlit/)
+
+### Technical Blogs
+
 - **Prevent Your Data Lake from Becoming a Data Swamp** [Read](https://nimbusintelligence.com/2023/10/prevent-your-data-lake-from-becoming-a-data-swamp/)
 - **Understanding Data Normalization** [Read](https://nimbusintelligence.com/2023/09/understanding-data-normalization/)
 - **Understanding Modularity** [Read](https://nimbusintelligence.com/2023/11/understanding-modularity/)
