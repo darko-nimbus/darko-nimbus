@@ -17,12 +17,9 @@ Welcome to my GitHub profile.
 
 ## 📄Certifications:
 
-<img src="https://miro.medium.com/v2/resize:fit:302/0*rSN2PYxEHCVi-_Es.png" alt="Snowflake BADGE" width="150" height="150"> <img src="https://templates.images.credential.net/167892285199942014616515742341.png" alt="dbt BADGE" width="150" height="150"> <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx BADGE" width="150" height="150"> <img src="https://api.sertifier.com/userdata/08d9f799-b40a-8cb0-1f3e-46a314b27fb2/2d6bbff5-1036-4218-b8e2-1530075e5e06.png" alt="Growth Tribe BADGE" width="150" height="150"> 
+Click on the badge to see the certification.
 
-- [Snowflake SnowPro Core Certification](https://pdf.credential.net/9hopyggw_1698911053725.pdf) issued by Snowflake in October 2023
-- [dbt Developer](https://credentials.getdbt.com/84d416da-8341-4463-bf09-cbf8f8792aec#gs.3tise5) issued by dbt Labs in December 2023
-- [Alteryx Designer Core Certification](https://www.credly.com/badges/9328d8d9-cbaf-4a52-bdeb-1549e622d57a/public_url) issued by Alteryx in December 2023
-- [Growth Marketing](https://certificates.growthtribe.io/en/verify/58415215742700) issued by Growth Tribe in January 2023
+[<img alt="snowflake badge" width="150" src="https://miro.medium.com/v2/resize:fit:302/0*rSN2PYxEHCVi-_Es.png"/>](https://pdf.credential.net/9hopyggw_1698911053725.pdf) [<img alt="dbt BADGE" width="150" src="https://templates.images.credential.net/167892285199942014616515742341.png"/>](https://credentials.getdbt.com/84d416da-8341-4463-bf09-cbf8f8792aec#gs.3tise5) [<img alt="Alteryx BADGE" width="150" src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png"/>](https://www.credly.com/badges/9328d8d9-cbaf-4a52-bdeb-1549e622d57a/public_url) [<img alt="Growth Tribe BADGE" width="150" src="https://api.sertifier.com/userdata/08d9f799-b40a-8cb0-1f3e-46a314b27fb2/2d6bbff5-1036-4218-b8e2-1530075e5e06.png"/>](https://certificates.growthtribe.io/en/verify/58415215742700)
 
 ## 📖 Blog posts:
 ### Analytics Engineering
