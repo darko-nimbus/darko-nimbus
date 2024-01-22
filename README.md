@@ -4,7 +4,7 @@ Welcome to my GitHub profile.
 
 ## ⚙️Tech stack
 
-**Version Control and Collaboration |** ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat) 
+**Version Control and Collaboration** ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat) 
 
 **Integrated Development Environments (IDEs)** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
 
