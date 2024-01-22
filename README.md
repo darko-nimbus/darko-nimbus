@@ -12,7 +12,7 @@ Welcome to my GitHub profile.
 ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?logo=Airbyte&logoColor=white&style=flat)  <a href="https://your-fivetran-link-here" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/fivetran_logo_icon_170149.png" alt="Fivetran" width="15" height="15"></a> Fivetran
 - **Programming languages** ![Python](https://img.shields.io/badge/python-3776AB?logo=Python&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=PostgreSQL&logoColor=white&style=flat)
 - **Data Visualization** ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white&style=flat) ![Looker](https://img.shields.io/badge/Looker-4285F4?logo=Looker&logoColor=white&style=flat)
-- **Operating systems:** ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=flat)  ![macOS](https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=flat)
+- **Operating systems:** ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat) ![macOS](https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=flat)
 
 
 ## 📄Certifications:
