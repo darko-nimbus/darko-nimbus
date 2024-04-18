@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile.
 
+Check my answers to the [Frosty Friday Challenges](https://github.com/darko-nimbus/FROSTYFRIDAYCHALLENGES)
+
 ## 🛠️ Languages and Tools
 
 - **Version Control and Collaboration** ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat)
